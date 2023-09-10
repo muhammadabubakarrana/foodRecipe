@@ -28,26 +28,26 @@ export const colors = {
   success: '#00D523',
   rating: '#FFC400',
 
+
   error: '#FF0000',
   error2: '#FF000080',
 
-  appStatus1:'#FBE4C3',
-  appStatus2:'#FFF99E',
-  appStatus3:'#BFFCC3',
-  appStatus4:'#139D37',
+  appStatus1: '#FBE4C3',
+  appStatus2: '#FFF99E',
+  appStatus3: '#BFFCC3',
+  appStatus4: '#139D37',
 
   appGradiantColors: ['#4E20EA', 'rgba(214,48,49, 1)'],
 
   appColor1: '#4E20EA',
   appColor2: 'rgba(214,48,49, 1)',
-  appColor3:'#E8B02D',
+  appColor3: '#E8B02D',
   appColor5: '#FFF5E5',
-  appColor6:'#FFFF00',
-  appColor7:'#FF9A9A',
-  appColor8:'#FB7979',
-  appColor9:'#003162',
-  appColor10:'#FFDD00',
-
+  appColor6: '#FFFF00',
+  appColor7: '#FF9A9A',
+  appColor8: '#FB7979',
+  appColor9: '#003162',
+  appColor10: '#FFDD00',
 
   appTextColor1: '#000000',
   appTextColor2: 'rgba(26,26,26, 1)',
@@ -55,13 +55,12 @@ export const colors = {
   appTextColor4: 'grey',
   appTextColor5: '#A1A1A1',
   appTextColor6: '#FFFFFF',
-  appTextColor7:'#DED9D9',
+  appTextColor7: '#DED9D9',
 
   appBgColor1: '#FFFFFF',
   appBgColor2: '#F8F8F8',
   appBgColor3: '#E9E9E9',
   appBgColor4: '#AAAAAA',
   appBgColor5: 'rgba(26,26,26, 1)',
-  appBgColor6: '#000000'
-}
-
+  appBgColor6: '#000000',
+};

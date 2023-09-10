@@ -1,3 +1,4 @@
-import Home from './home'
+import Home from './home';
+import RecipeDetail from './RecipieDetail.js';
 
-export { Home }
+export {Home, RecipeDetail};

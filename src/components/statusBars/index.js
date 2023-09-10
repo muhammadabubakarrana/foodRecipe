@@ -16,6 +16,7 @@ export const Dark = () => {
 export const Light = () => {
     return (
         <StatusBar
+       // networkActivityIndicatorVisible={true}
             translucent
             barStyle="light-content"
            // backgroundColor={colors.appBgColor6 + '40'}
